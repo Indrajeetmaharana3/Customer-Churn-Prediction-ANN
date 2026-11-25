@@ -50,8 +50,7 @@ If Python 3.14 is your only installed version, install/use Python 3.12 for this 
 8. Save the model and preprocessing pipeline.
 9. Use Streamlit for interactive predictions.
 
-## Resume description (use after successfully running and understanding the project)
-
+## Resume description
 **Customer Churn Prediction using ANN | Deep Learning**
 - Built a feed-forward Artificial Neural Network using TensorFlow/Keras for binary customer churn classification.
 - Preprocessed numerical and categorical features using StandardScaler and OneHotEncoder.
